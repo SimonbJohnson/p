@@ -1,0 +1,18 @@
+.underline {
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#ccc;
+}
+
+.margin20 {
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.advanced{
+	display:none;
+}
+
+.toollink {
+	font-size:2em;
+}
